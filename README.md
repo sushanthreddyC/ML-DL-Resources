@@ -9,7 +9,7 @@ Stats:
 1) https://www.mygreatlearning.com/blog/statistics-interview-questions/
 
 Courses:
-2) https://learn.microsoft.com/en-us/ai/
+1) https://learn.microsoft.com/en-us/ai/
 2) https://course.fast.ai/Resources/book.html
 
 Interview Tips:
