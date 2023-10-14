@@ -1,0 +1,16 @@
+Interview Questions
+1)How would you approach cleaning and preprocessing a dataset with missing values and outliers? Could you provide an example of a technique you've used for this purpose?
+
+2)When dealing with a large and complex dataset, what are some strategies you would employ to efficiently explore its structure and identify relevant patterns?
+
+3) Explain the difference between supervised and unsupervised learning. Provide an example of a problem that would require each of these approaches.
+
+4)In the context of machine learning, what is overfitting? How can you prevent or mitigate overfitting when training a model?
+
+5) What are the key steps involved in a typical natural language processing (NLP) pipeline? Can you walk me through these steps using a specific NLP task as an example?
+
+6)When working with text data, how would you convert words into numerical representations that can be used as input for machine-learning algorithms?
+
+7. When creating a data visualization to compare the distribution of a numerical variable across different categories, which type of plot (e.g., histogram, box plot, violin plot) would you choose and why?
+
+8) How can you effectively use color and design principles to enhance the clarity and impact of your data visualizations?
