@@ -2,6 +2,7 @@
 Links to resources:
 
 1) https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
+2) https://github.com/MrGemy95/Tensorflow-Project-Template
 
 MLOPS:
 1) https://neptune.ai/blog/build-ci-cd-mlops-pipeline
