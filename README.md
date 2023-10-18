@@ -1,8 +1,9 @@
 # ML-DL-Resources
 Links to resources:
 
-1) https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
-2) https://github.com/MrGemy95/Tensorflow-Project-Template
+1) Loss Functions: https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
+2) Tensorflow Project Template: https://github.com/MrGemy95/Tensorflow-Project-Template
+3) Optimizers: https://medium.com/mlearning-ai/optimizers-in-deep-learning-7bf81fed78a0
 
 MLOPS:
 1) https://neptune.ai/blog/build-ci-cd-mlops-pipeline
