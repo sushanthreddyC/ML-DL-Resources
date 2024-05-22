@@ -11,6 +11,7 @@
 ## MLOPS:
 1) https://neptune.ai/blog/build-ci-cd-mlops-pipeline
 2) https://www.linkedin.com/feed/update/urn:li:activity:7089559914351661056?utm_source=share&utm_medium=member_desktop
+3) LLMops : https://www.youtube.com/@LLMOpsSpace/videos
 
 ## Stats:
 1) https://www.mygreatlearning.com/blog/statistics-interview-questions/
