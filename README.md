@@ -22,4 +22,5 @@
 
 ## Interview Tips:
 1) https://www.linkedin.com/posts/jalonniweaver_recruiters-jobseekers-network-activity-7089989113658945536-MLTt?utm_source=share&utm_medium=member_desktop
+2) https://www.youtube.com/playlist?list=PLrtCHHeadkHqYX7O5cjHeWHzH2jzQqWg5
 
