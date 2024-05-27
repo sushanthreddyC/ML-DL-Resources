@@ -7,6 +7,7 @@
 4) Data Visualization using Matplotlib: https://www.youtube.com/watch?v=k1hPN5xR_f4
 5) LLM's : https://www.linkedin.com/feed/update/urn:li:activity:7127968828147277825?utm_source=share&utm_medium=member_desktop
 6) Model Calibration: https://towardsdatascience.com/a-comprehensive-guide-on-model-calibration-part-1-of-4-73466eb5e09a
+7) Interview Questions : https://vinija.ai/concepts/fundamentals/
 
 ## MLOPS:
 1) https://neptune.ai/blog/build-ci-cd-mlops-pipeline
