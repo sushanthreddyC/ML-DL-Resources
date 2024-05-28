@@ -10,12 +10,12 @@
 7) Interview Questions : [Link](https://vinija.ai/concepts/fundamentals/)
 
 ## MLOPS:
-1) https://www.linkedin.com/feed/update/urn:li:activity:7089559914351661056?utm_source=share&utm_medium=member_desktop
+1) MLops Github repos : [Link](https://www.linkedin.com/feed/update/urn:li:activity:7089559914351661056?utm_source=share&utm_medium=member_desktop)
 2) MLops Zoomcamp: [Link](https://github.com/DataTalksClub/mlops-zoomcamp)
 3) LLMops : [Link](https://www.youtube.com/@LLMOpsSpace/videos)
 
 ## Stats:
-1) https://www.mygreatlearning.com/blog/statistics-interview-questions/
+1) Stats Interview Questions : [Link](https://www.mygreatlearning.com/blog/statistics-interview-questions/)
 
 ## Courses:
 1) Microsoft AI hub : [Link](https://learn.microsoft.com/en-us/ai/)
@@ -23,7 +23,7 @@
 
 
 ## Interview Tips:
-1) https://www.linkedin.com/posts/jalonniweaver_recruiters-jobseekers-network-activity-7089989113658945536-MLTt?utm_source=share&utm_medium=member_desktop
+1) Questions to ask in Interview: [Link](https://www.linkedin.com/posts/jalonniweaver_recruiters-jobseekers-network-activity-7089989113658945536-MLTt?utm_source=share&utm_medium=member_desktop)
 2) Machine Learning Mock Interviews: [Link](https://www.youtube.com/playlist?list=PLrtCHHeadkHqYX7O5cjHeWHzH2jzQqWg5)
 
 ## Interview Questions
