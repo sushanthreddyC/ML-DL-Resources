@@ -27,3 +27,12 @@
 1) https://www.linkedin.com/posts/jalonniweaver_recruiters-jobseekers-network-activity-7089989113658945536-MLTt?utm_source=share&utm_medium=member_desktop
 2) https://www.youtube.com/playlist?list=PLrtCHHeadkHqYX7O5cjHeWHzH2jzQqWg5
 
+## Interview Questions
+1) 111 Data Science Interview Questions & Detailed Answers: [Link](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+2) 40 Interview Questions asked at Startups in Machine Learning / Data Science [Link](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+3) 100 Data Science Interview Questions and Answers (General) for 2024 [Link](https://www.projectpro.io/article/100-data-science-interview-questions-and-answers-for-2021/184)
+4) 21 Must-Know Data Science Interview Questions and Answers [Link](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+5) 45 Questions to test a data scientist on DL(along with solution) [Link](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+6) 30 Questions to test a data scientist on NLP [Link](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+7) Questions on Stackoverflow: [Link](https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15)
+
