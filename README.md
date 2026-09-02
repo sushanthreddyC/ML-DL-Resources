@@ -37,3 +37,4 @@
 
 ## ML Scaling
 1) https://jax-ml.github.io/scaling-book/
+2) https://lnkd.in/p/gRH9EA3z
